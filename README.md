@@ -1,6 +1,6 @@
 # Markov state model tutorial
 
-Toni Giorgino (IBF-CNR), www.giorginolab.it, for Camilloni's course at the University of Milan.
+Toni Giorgino (IBF-CNR), www.giorginolab.it, for Prof. Camilloni's course at the University of Milan.
 
 To preview the notebook code "live" with results, open it in Google Colab (or locally).
 
